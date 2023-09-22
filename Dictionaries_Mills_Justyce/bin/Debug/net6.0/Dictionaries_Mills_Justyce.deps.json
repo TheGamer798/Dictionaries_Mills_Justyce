@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dictionaries_Mills_Justyce/1.0.0": {
+        "runtime": {
+          "Dictionaries_Mills_Justyce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionaries_Mills_Justyce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
